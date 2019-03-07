@@ -1,2 +1,2 @@
 # ProjDX10
-Work with shaders 
+Work with shaders
